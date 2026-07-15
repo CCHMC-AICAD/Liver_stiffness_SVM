@@ -1,3 +1,28 @@
+## Acknowledgments
+
+This work was supported by the National Institutes of Health under Grant **R01-EB030582**.
+
+## Reference
+
+Li H, He L, Dudley JA, Maloney TC, Somasundaram E, Brady SL, Parikh NA, Dillman JR. DeepLiverNet: A deep transfer learning model for classifying liver stiffness using clinical and T2-weighted magnetic resonance imaging data in children and young adults. *Pediatric Radiology*. 2021;51(3):392–402. doi: 10.1007/s00247-020-04854-3.
+
+```bibtex
+@article{li2021deeplivernet,
+  title   = {DeepLiverNet: A Deep Transfer Learning Model for Classifying Liver Stiffness Using Clinical and T2-Weighted Magnetic Resonance Imaging Data in Children and Young Adults},
+  author  = {Li, Hailong and He, Lili and Dudley, Jonathan A. and Maloney, Taylor C. and Somasundaram, Elakkiya and Brady, Samuel L. and Parikh, Nehal A. and Dillman, Jonathan R.},
+  journal = {Pediatric Radiology},
+  volume  = {51},
+  number  = {3},
+  pages   = {392--402},
+  year    = {2021},
+  doi     = {10.1007/s00247-020-04854-3},
+  pmid    = {33048183},
+  pmcid   = {PMC8675279}
+}
+```
+
+
+
 # Liver Stiffness SVM
 
 Reproducible baseline machine-learning code for evaluating a linear support-vector machine on tabular liver-stiffness features.
